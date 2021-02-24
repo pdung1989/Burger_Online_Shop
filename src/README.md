@@ -3,7 +3,7 @@ Burger Builder App - The project was done during the React course on Udemy
 ## Run the project
 1. Git clone:
 2. Install npm:
--  npm install
+- npm install
 - npm install --save axios
 - npm install --save prop-types
 3. Start the poject on local host:
