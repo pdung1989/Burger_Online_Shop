@@ -1,7 +1,7 @@
 Burger Builder App - The project was done during the React course on Udemy
 --------------------------------------------------------------------------
 ## Run the project
-1. Git clone:
+1. Git clone: https://github.com/pdung1989/Burger_Online_Shop.git to your local machine.
 2. Install npm:
 - npm install
 - npm install --save axios
